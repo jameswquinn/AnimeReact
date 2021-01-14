@@ -1,0 +1,23 @@
+html, body {
+  background-color: #eee;
+  height: 100vh;
+  overflow: hidden;
+  width: 100vw;
+}
+
+.me {
+  background-color: lightseagreen;
+  box-sizing: border-box;
+  height: 100px;
+  left: 20px;
+  position: relative;
+  top: 20px;
+  width: 100px;
+}
+
+.progress {
+  bottom: 20px;
+  left: 20px;
+  position: absolute;
+  width: 300px;
+}
